@@ -3,7 +3,8 @@
 - Create React App
 - Configured TailwindCSS in our app.
 - Build our Header.
-- Build our Login form
+- Build our Sign-in form
+    - Converted the Sign-in form to Sing-up form.
 
 
 # Features
